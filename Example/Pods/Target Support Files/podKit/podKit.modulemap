@@ -1,0 +1,6 @@
+framework module podKit {
+  umbrella header "podKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
